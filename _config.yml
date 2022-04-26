@@ -1,1 +1,12 @@
 theme: jekyll-theme-midnight
+title: 🎶 JJ van Zon 💻
+plugins:
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-seo
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
