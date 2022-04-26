@@ -1,6 +1,6 @@
 <img src="photo.png" width="150"/>
 
-## Hi There 👋, I'm JJ.  
+## Hi there 👋, I'm JJ.  
 
 Former software professional with autism.  
 Now doing things as a hobby.  
