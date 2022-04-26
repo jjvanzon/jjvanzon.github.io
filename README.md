@@ -1,4 +1,4 @@
-<img src="photo.png" width="200"/>
+<img src="photo.png" width="150"/>
 
 ## Hi There 👋, I'm JJ.  
 
