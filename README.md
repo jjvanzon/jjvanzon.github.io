@@ -1,3 +1,5 @@
+<img src="photo.png" width="120"/>
+
 ## Hi There 👋, I'm JJ.  
 
 Former software professional with autism.  
