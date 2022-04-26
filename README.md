@@ -1,4 +1,4 @@
-<img src="photo.png" width="120"/>
+<img src="photo.png" width="200"/>
 
 ## Hi There 👋, I'm JJ.  
 
@@ -15,7 +15,7 @@ Now doing things as a hobby.
 
 ## 📫 How to reach me
 
-📨 jjvanzon79@gmail.com
+<a href="mailto:jjvanzon79@gmail.com">📨 jjvanzon79@gmail.com</a>
 
 <p align="left">
 <a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
