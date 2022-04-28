@@ -4,8 +4,8 @@
 
 ## Hi there 👋, I'm JJ.  
 
-Former software professional with autism.  
-Now doing things as a hobby.  
+Former software professional with *autism*.  
+Now doing things as a *hobby*.  
 
 ## Projects
 
