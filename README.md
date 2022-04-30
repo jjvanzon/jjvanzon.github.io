@@ -28,6 +28,5 @@ Now doing things as a *hobby*.
 <a href="https://linkedin.com/in/jj-van-zon-04b80a18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/jjvanzon/" target="blank"><img align="center" src="github.png" alt="GitHub" height="30" width="30" /></a>
 <a href="https://nl.pinterest.com/jjvanzon/" target="blank"><img align="center" src="https://assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" alt="Pinterest" height="34" width="34" /></a>
+<a href="https://www.nuget.org/profiles/jjvanzon" target="blank"><img align="center" src="https://www.nuget.org/Content/gallery/img/logo-header.svg" alt="NuGet" height="25" /></a>
 </p>
-
-<a href="https://www.nuget.org/profiles/jjvanzon">NuGet</a>
