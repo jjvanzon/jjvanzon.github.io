@@ -20,7 +20,6 @@ Now doing things as a *hobby*.
     - Used as a base in several home projects. 
     - A variation of this was also used at a former employer of mine.
     
-
 ## 📫 How to reach me
 
 <a href="mailto:jjvanzon79@gmail.com">📨 jjvanzon79@gmail.com</a>
