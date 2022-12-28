@@ -1,4 +1,4 @@
-<style type="text/css" rel="stylesheet">img, h2, p { text-align:center;}</style>
+<style type="text/css" rel="stylesheet">img, h2, p { text-align: center; }</style>
 
 <p><img src="photo.png" width="150"/></p>
 
@@ -15,6 +15,11 @@ Now doing things as a *hobby*.
 - ### [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Circular aims to become a visual programming language made from shapes and lines. It may once become a diagram notation for visualizing computer code.
     - This is an attempt at a specification of this language.
+- ### [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture/)
+    - Documentation about software development techniques.
+    - Used as a base in several projects home projects. 
+    - A variation of this was also used at a former employer of mine.
+    
 
 ## 📫 How to reach me
 
