@@ -16,8 +16,8 @@ Now doing things as a *hobby*.
     - Circular aims to become a visual programming language made from shapes and lines. It may once become a diagram notation for visualizing computer code.
     - This is an attempt at a specification of this language.
 - ### [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture/)
-    - Documentation about software development techniques.
-    - Used as a base in several projects home projects. 
+    - About software development techniques.
+    - Used as a base in several home projects. 
     - A variation of this was also used at a former employer of mine.
     
 
