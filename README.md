@@ -20,9 +20,9 @@ Now doing things as a *hobby*.
     - Used as a base in several home projects. 
     - A variation of this was also used at a former employer of mine.
 - ### [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
-    - Nuts, bolts and screws for software development. 
-    - Extensions to the .NET Framework.
-    - Missing .NET Framework, so I programmed my own.
+    - Nuts, bolts and screws for software development.
+    - Extends .NET Framework.
+    - Missing in .NET Framework, so I programmed my own.
     - [NuGet](https://www.nuget.org/profiles/jjvanzon) / [GitHub](https://github.com/jjvanzon/JJ.Framework) / [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed) 
     
 ## 📫 How to reach me
