@@ -19,6 +19,11 @@ Now doing things as a *hobby*.
     - About software development techniques.
     - Used as a base in several home projects. 
     - A variation of this was also used at a former employer of mine.
+- ### [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
+    - The nuts bolts and screws for software development. 
+    - Extensions for the .NET Framework.
+    - Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own.
+    - [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework) | [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed) 
     
 ## 📫 How to reach me
 
