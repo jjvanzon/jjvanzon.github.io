@@ -21,7 +21,7 @@ Now doing things as a *hobby*.
     - A variation of this was also used at a former employer of mine.
 - ### [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
     - Nuts, bolts and screws for software development. 
-    - Extends the .NET Framework.
+    - Extensions to the .NET Framework.
     - Missing .NET Framework, so I programmed my own.
     - [NuGet](https://www.nuget.org/profiles/jjvanzon) / [GitHub](https://github.com/jjvanzon/JJ.Framework) / [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed) 
     
