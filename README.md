@@ -22,7 +22,8 @@ Now doing things as a *hobby*.
 - ### [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
     - Nuts, bolts and screws for software development.
     - Extends .NET Framework.
-    - Missing in .NET Framework, so I programmed my own.
+    - Missing in .NET Framework.
+    - So I programmed my own.
     - [NuGet](https://www.nuget.org/profiles/jjvanzon) / [GitHub](https://github.com/jjvanzon/JJ.Framework) / [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed) 
     
 ## 📫 How to reach me
