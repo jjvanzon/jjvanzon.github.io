@@ -9,16 +9,16 @@ Now doing things as a *hobby*.
 
 ## Projects
 
-- ### [🎼 JJ's Piano Playing Docs 🎹](https://jjvanzon.github.io/Piano-Playing-Docs/README.html)
-    - Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make. I also made some:  
-    [🔊 Recordings 🎵](https://jjvanzon.github.io/Piano-Playing-Docs/recordings)
-- ### [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
-    - Circular aims to become a visual programming language made from shapes and lines. It may once become a diagram notation for visualizing computer code.
-    - This is an attempt at a specification of this language.
-- ### [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture/)
+- ### [📲 JJ's Reference Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture/)
     - About software development techniques.
     - Used as a base in several home projects. 
     - A variation of this was also used at a former employer of mine.
+- ### [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
+    - Circular aims to become a visual programming language made from shapes and lines. It may once become a diagram notation for visualizing computer code.
+    - This is an attempt at a specification of this language.
+- ### [🎼 JJ's Piano Playing Docs 🎹](https://jjvanzon.github.io/Piano-Playing-Docs/README.html)
+    - Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make. I also made some:  
+    [🔊 Recordings 🎵](https://jjvanzon.github.io/Piano-Playing-Docs/recordings)
 - ### [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
     - Nuts, bolts and screws for software development.
     - Extends .NET Framework.
