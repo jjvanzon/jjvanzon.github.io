@@ -18,7 +18,7 @@ Now doing things as a *hobby*.
     - This is an attempt at a specification of this language.
 - ### [🎵 JJ's Piano Playing Docs 🎹](https://jjvanzon.github.io/Piano-Playing-Docs/README.html)
     - Piano playing is a hobby of mine. Here I try to organize my thoughts about it. And share documents I may make. I also made some:  
-    [🎶 Recordings 🔊](https://jjvanzon.github.io/Piano-Playing-Docs/recordings)
+    [🔊 Recordings 🎚️](https://jjvanzon.github.io/Piano-Playing-Docs/recordings)
 - ### [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
     - Nuts, bolts and screws for software development.
     - Extends .NET Framework.
