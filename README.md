@@ -9,7 +9,7 @@ Now doing things as a *hobby*.
 
 ## Projects
 
-- ### [📲 JJ's Reference Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture/)
+- ### [📲 JJ's Software Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture/)
     - About software development techniques.
     - Used as a base in several home projects. 
     - A variation of this was also used at a former employer of mine.
